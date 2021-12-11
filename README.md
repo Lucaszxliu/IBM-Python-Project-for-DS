@@ -1,2 +1,2 @@
 # IBM-Python-Project-for-DS
-This is the final project for the course
+For demonstration of coursework only 
